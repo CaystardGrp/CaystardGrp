@@ -2,6 +2,10 @@
 
 I build reliable backend systems, sharp web interfaces, and mobile apps with modern tooling.
 
+## Links
+
+[YouTube](https://www.youtube.com/@mkayima44) • [LinkedIn](https://www.linkedin.com/in/kayima/)
+
 ## Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)

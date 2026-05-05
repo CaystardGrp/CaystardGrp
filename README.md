@@ -4,7 +4,8 @@ I build reliable backend systems, sharp web interfaces, and mobile apps with mod
 
 ## Links
 
-[YouTube](https://www.youtube.com/@mkayima44) • [LinkedIn](https://www.linkedin.com/in/kayima/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mkayima44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayima/)
 
 ## Languages
 

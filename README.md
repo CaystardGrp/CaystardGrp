@@ -52,6 +52,14 @@ I build reliable backend systems, sharp web interfaces, and mobile apps with mod
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat&logo=strapi&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat&logo=contentful&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=flat&logo=sanity&logoColor=white)
+![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=flat&logo=prismic&logoColor=white)
+![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?style=flat&logo=storyblok&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)
+![Payload](https://img.shields.io/badge/Payload-000000?style=flat&logo=payloadcms&logoColor=white)
+![KeystoneJS](https://img.shields.io/badge/KeystoneJS-5A67D8?style=flat&logo=keystone&logoColor=white)
+![Hygraph](https://img.shields.io/badge/Hygraph-1A73E8?style=flat&logo=graphql&logoColor=white)
 
 ## Frontend
 

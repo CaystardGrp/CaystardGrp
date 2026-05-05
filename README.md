@@ -1,6 +1,6 @@
 # Kayima Mark
 
-Backend, mobile, and frontend developer working across modern web and app stacks.
+I build reliable backend systems, sharp web interfaces, and mobile apps with modern tooling.
 
 ## Languages
 
